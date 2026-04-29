@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Segundo conflicto
+    <!-- Fusion de los merge
     -->
     <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
