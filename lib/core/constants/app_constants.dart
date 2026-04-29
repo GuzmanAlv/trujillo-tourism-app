@@ -1,0 +1,1 @@
+// constantes de la app 
